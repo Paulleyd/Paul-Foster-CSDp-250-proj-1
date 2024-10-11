@@ -1,0 +1,95 @@
+Paul Foster
+CSDP 250 DATA SCIENCE
+
+
+
+Proj Description - User inputs 10 class course codes.  Each course requires the credit hours and the grades.  After the 10 course codes has been submitted,
+the program will ask you to delete 2 course codes which deletes all of the nodes in that course.  You can select the course code by typing in the course code you
+would like to remove.
+
+
+
+Data Input and Output 
+Course # 1
+Enter course code: 501
+Enter credit hours: 3
+Enter grade (A, B, C, etc.): A
+Course # 2
+Enter course code: 504
+Enter credit hours: 4
+Enter grade (A, B, C, etc.): B
+Course # 3
+Enter course code: 405
+Enter credit hours: 2
+Enter grade (A, B, C, etc.): E
+Course # 4
+Enter course code: 500
+Enter credit hours: 4
+Enter grade (A, B, C, etc.): A
+Course # 5
+Enter course code: 321
+Enter credit hours: 4
+Enter grade (A, B, C, etc.): C
+Course # 6
+Enter course code: 409
+Enter credit hours: 3
+Enter grade (A, B, C, etc.): C
+Course # 7
+Enter course code: 564
+Enter credit hours: 4
+Enter grade (A, B, C, etc.): B
+Course # 8
+Enter course code: 434
+Enter credit hours: 3
+Enter grade (A, B, C, etc.): A
+Course # 9
+Enter course code: 455
+Enter credit hours: 5
+Enter grade (A, B, C, etc.): A
+Course # 10
+Enter course code: 320
+Enter credit hours: 2
+Enter grade (A, B, C, etc.): D
+
+Courses after adding:
+Course List:
+Course Code: 320, Credit Hours: 2, Grade: D
+Course Code: 321, Credit Hours: 4, Grade: C
+Course Code: 405, Credit Hours: 2, Grade: E
+Course Code: 409, Credit Hours: 3, Grade: C
+Course Code: 434, Credit Hours: 3, Grade: A
+Course Code: 455, Credit Hours: 5, Grade: A
+Course Code: 500, Credit Hours: 4, Grade: A
+Course Code: 501, Credit Hours: 3, Grade: A
+Course Code: 504, Credit Hours: 4, Grade: B
+Course Code: 564, Credit Hours: 4, Grade: B
+
+Enter course code to delete: 320
+
+Courses after first deletion:
+Course List:
+Course Code: 321, Credit Hours: 4, Grade: C
+Course Code: 405, Credit Hours: 2, Grade: E
+Course Code: 409, Credit Hours: 3, Grade: C
+Course Code: 434, Credit Hours: 3, Grade: A
+Course Code: 455, Credit Hours: 5, Grade: A
+Course Code: 500, Credit Hours: 4, Grade: A
+Course Code: 501, Credit Hours: 3, Grade: A
+Course Code: 504, Credit Hours: 4, Grade: B
+Course Code: 564, Credit Hours: 4, Grade: B
+
+Enter another course code to delete: 321
+
+Final Course :
+Course List:
+Course Code: 405, Credit Hours: 2, Grade: E
+Course Code: 409, Credit Hours: 3, Grade: C
+Course Code: 434, Credit Hours: 3, Grade: A
+Course Code: 455, Credit Hours: 5, Grade: A
+Course Code: 500, Credit Hours: 4, Grade: A
+Course Code: 501, Credit Hours: 3, Grade: A
+Course Code: 504, Credit Hours: 4, Grade: B
+Course Code: 564, Credit Hours: 4, Grade: B
+
+C:\Users\Paul Foster\Documents\Homework\CSDP 250 Projc 1\x64\Debug\CSDP 250 Projc 1.exe (process 28736) exited with code 0.
+Press any key to close this window . . .
